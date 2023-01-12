@@ -11,7 +11,7 @@
 # änderung in branch: zweig
 #
 # zwig, ändrung
-# das kommt vom ghBranch
+# das kommt vom ghBranch usw tc
 
 bastl
 
