@@ -10,8 +10,7 @@
 
 # änderung in branch: neuZweig
 #
-# zwig, ändrung
-
+# neuer kommentar
 
 bastljjj
 
